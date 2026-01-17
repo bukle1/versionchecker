@@ -1,1 +1,26 @@
-v16:
+=== Version v15 ===
+• Added Writing Speed and Clicking Speed settings (ms based)
+• Improved purchase process to fix delayed item delivery
+• Optimized packet handling for more stable performance
+• Minor bug fixes and UI improvements
+
+
+=== Version v14 ===
+• Fixed resolution issues on 2K monitors
+• Improved compatibility with 1920x1080 scaling
+• Performance optimizations during market scanning
+• Reduced missed packet issues
+
+
+=== Version v13 ===
+• Added Black Market Check Process
+• Improved sniffer timing accuracy
+• Reduced CPU usage during scans
+• Fixed several crash-related bugs
+
+
+=== Version v12 ===
+• Initial public release
+• Basic market scanning system
+• Auction packet sniffing implemented
+• Core UI and dashboard added
