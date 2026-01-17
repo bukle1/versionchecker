@@ -1,3 +1,11 @@
+=== Version v16 ===
+• Added Update Notes section to track version changes
+• Added "Load Default Items" button to the Items panel
+• Fixed an issue where selected items were shrinking on every refresh
+• General UI stability improvements
+• Minor bug fixes and performance optimizations
+
+
 === Version v15 ===
 • Added Writing Speed and Clicking Speed settings (ms based)
 • Improved purchase process to fix delayed item delivery
