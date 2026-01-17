@@ -1,0 +1,1987 @@
+{
+  "Curse": [
+    {
+      "name": "Cursed Staff",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Curse"
+    },
+    {
+      "name": "Cursed Staff",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Curse"
+    },
+    {
+      "name": "Cursed Staff",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Curse"
+    },
+    {
+      "name": "Cursed Staff",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Curse"
+    },
+    {
+      "name": "Demonic Staff",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Curse"
+    },
+    {
+      "name": "Demonic Staff",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Curse"
+    },
+    {
+      "name": "Demonic Staff",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Curse"
+    },
+    {
+      "name": "Demonic Staff",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Curse"
+    },
+    {
+      "name": "Great Cursed Staff",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Curse"
+    },
+    {
+      "name": "Great Cursed Staff",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Curse"
+    },
+    {
+      "name": "Great Cursed Staff",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Curse"
+    },
+    {
+      "name": "Great Cursed Staff",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Curse"
+    }
+  ],
+  "Arcane": [
+    {
+      "name": "Arcane Staff",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 3,
+      "category": "Arcane"
+    },
+    {
+      "name": "Arcane Staff",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Arcane"
+    },
+    {
+      "name": "Arcane Staff",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Arcane"
+    },
+    {
+      "name": "Arcane Staff",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 2,
+      "category": "Arcane"
+    },
+    {
+      "name": "Great Arcane Staff",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Arcane"
+    },
+    {
+      "name": "Great Arcane Staff",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Arcane"
+    },
+    {
+      "name": "Great Arcane Staff",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Arcane"
+    },
+    {
+      "name": "Great Arcane Staff",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Arcane"
+    }
+  ],
+  "Fire": [
+    {
+      "name": "Fire Staff",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Fire"
+    },
+    {
+      "name": "Fire Staff",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Fire"
+    },
+    {
+      "name": "Fire Staff",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Fire"
+    },
+    {
+      "name": "Fire Staff",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Fire"
+    },
+    {
+      "name": "Great Fire Staff",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Fire"
+    },
+    {
+      "name": "Great Fire Staff",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Fire"
+    },
+    {
+      "name": "Great Fire Staff",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Fire"
+    },
+    {
+      "name": "Great Fire Staff",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Fire"
+    }
+  ],
+  "Frost": [
+    {
+      "name": "Frost Staff",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Frost"
+    },
+    {
+      "name": "Frost Staff",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Frost"
+    },
+    {
+      "name": "Frost Staff",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Frost"
+    },
+    {
+      "name": "Great Frost Staff",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Frost"
+    },
+    {
+      "name": "Great Frost Staff",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Frost"
+    },
+    {
+      "name": "Great Frost Staff",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Frost"
+    },
+    {
+      "name": "Great Frost Staff",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Frost"
+    },
+    {
+      "name": "Frost Staff",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 13,
+      "category": "Frost"
+    }
+  ],
+  "Holy": [
+    {
+      "name": "Divine Staff",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Holy"
+    },
+    {
+      "name": "Divine Staff",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Holy"
+    },
+    {
+      "name": "Divine Staff",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Holy"
+    },
+    {
+      "name": "Divine Staff",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Holy"
+    },
+    {
+      "name": "Great Holy Staff",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Holy"
+    },
+    {
+      "name": "Great Holy Staff",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Holy"
+    },
+    {
+      "name": "Great Holy Staff",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Holy"
+    },
+    {
+      "name": "Great Holy Staff",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Holy"
+    },
+    {
+      "name": "Holy Staff",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Holy"
+    },
+    {
+      "name": "Holy Staff",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Holy"
+    },
+    {
+      "name": "Holy Staff",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Holy"
+    },
+    {
+      "name": "Holy Staff",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Holy"
+    }
+  ],
+  "Nature": [
+    {
+      "name": "Druidic Staff",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Nature"
+    },
+    {
+      "name": "Druidic Staff",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Nature"
+    },
+    {
+      "name": "Druidic Staff",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Nature"
+    },
+    {
+      "name": "Druidic Staff",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Nature"
+    },
+    {
+      "name": "Great Nature Staff",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Nature"
+    },
+    {
+      "name": "Great Nature Staff",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Nature"
+    },
+    {
+      "name": "Great Nature Staff",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Nature"
+    },
+    {
+      "name": "Great Nature Staff",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Nature"
+    },
+    {
+      "name": "Nature Staff",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Nature"
+    },
+    {
+      "name": "Nature Staff",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Nature"
+    },
+    {
+      "name": "Nature Staff",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Nature"
+    },
+    {
+      "name": "Nature Staff",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Nature"
+    }
+  ],
+  "Axe": [
+    {
+      "name": "Battleaxe",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Axe"
+    },
+    {
+      "name": "Battleaxe",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 2,
+      "category": "Axe"
+    },
+    {
+      "name": "Battleaxe",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Axe"
+    },
+    {
+      "name": "Battleaxe",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Axe"
+    },
+    {
+      "name": "Greataxe",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 3,
+      "category": "Axe"
+    },
+    {
+      "name": "Greataxe",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Axe"
+    },
+    {
+      "name": "Greataxe",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 2,
+      "category": "Axe"
+    },
+    {
+      "name": "Greataxe",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Axe"
+    }
+  ],
+  "Dagger": [
+    {
+      "name": "Dagger",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Dagger"
+    },
+    {
+      "name": "Dagger",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Dagger"
+    },
+    {
+      "name": "Dagger",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Dagger"
+    },
+    {
+      "name": "Dagger",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Dagger"
+    },
+    {
+      "name": "Dagger Pair",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Dagger"
+    },
+    {
+      "name": "Dagger Pair",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Dagger"
+    },
+    {
+      "name": "Dagger Pair",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Dagger"
+    },
+    {
+      "name": "Dagger Pair",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Dagger"
+    }
+  ],
+  "Hammer": [
+    {
+      "name": "Great Hammer",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Hammer"
+    },
+    {
+      "name": "Great Hammer",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Hammer"
+    },
+    {
+      "name": "Great Hammer",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Hammer"
+    },
+    {
+      "name": "Great Hammer",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Hammer"
+    },
+    {
+      "name": "Polehammer",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Hammer"
+    },
+    {
+      "name": "Polehammer",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Hammer"
+    },
+    {
+      "name": "Polehammer",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Hammer"
+    },
+    {
+      "name": "Polehammer",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Hammer"
+    },
+    {
+      "name": "Tomb Hammer",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Hammer"
+    },
+    {
+      "name": "Tomb Hammer",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Hammer"
+    },
+    {
+      "name": "Tomb Hammer",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Hammer"
+    },
+    {
+      "name": "Tomb Hammer",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Hammer"
+    }
+  ],
+  "Mace": [
+    {
+      "name": "Bedrock Mace",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Mace"
+    },
+    {
+      "name": "Bedrock Mace",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Mace"
+    },
+    {
+      "name": "Bedrock Mace",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Mace"
+    },
+    {
+      "name": "Bedrock Mace",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Mace"
+    },
+    {
+      "name": "Heavy Mace",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Mace"
+    },
+    {
+      "name": "Heavy Mace",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Mace"
+    },
+    {
+      "name": "Heavy Mace",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Mace"
+    },
+    {
+      "name": "Heavy Mace",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Mace"
+    },
+    {
+      "name": "Morning Star",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Mace"
+    },
+    {
+      "name": "Morning Star",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Mace"
+    },
+    {
+      "name": "Morning Star",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Mace"
+    },
+    {
+      "name": "Morning Star",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Mace"
+    }
+  ],
+  "Sword": [
+    {
+      "name": "Broadsword",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Sword"
+    },
+    {
+      "name": "Broadsword",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Sword"
+    },
+    {
+      "name": "Broadsword",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Sword"
+    },
+    {
+      "name": "Broadsword",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Sword"
+    },
+    {
+      "name": "Claymore",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Sword"
+    },
+    {
+      "name": "Claymore",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 8,
+      "category": "Sword"
+    },
+    {
+      "name": "Claymore",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Sword"
+    },
+    {
+      "name": "Claymore",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Sword"
+    },
+    {
+      "name": "Dual Swords",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 14,
+      "category": "Sword"
+    },
+    {
+      "name": "Dual Swords",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Sword"
+    },
+    {
+      "name": "Dual Swords",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Sword"
+    },
+    {
+      "name": "Dual Swords",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Sword"
+    }
+  ],
+  "OffHand": [
+    {
+      "name": "Sarcophagus",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "OffHand"
+    },
+    {
+      "name": "Sarcophagus",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "OffHand"
+    },
+    {
+      "name": "Sarcophagus",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "OffHand"
+    },
+    {
+      "name": "Sarcophagus",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "OffHand"
+    },
+    {
+      "name": "Shield",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "OffHand"
+    },
+    {
+      "name": "Shield",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "OffHand"
+    },
+    {
+      "name": "Shield",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "OffHand"
+    },
+    {
+      "name": "Shield",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "OffHand"
+    },
+    {
+      "name": "Tome of Spells",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "OffHand"
+    },
+    {
+      "name": "Tome of Spells",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "OffHand"
+    },
+    {
+      "name": "Tome of Spells",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "OffHand"
+    },
+    {
+      "name": "Tome of Spells",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "OffHand"
+    },
+    {
+      "name": "Torch",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "OffHand"
+    },
+    {
+      "name": "Torch",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "OffHand"
+    },
+    {
+      "name": "Torch",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "OffHand"
+    },
+    {
+      "name": "Torch",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "OffHand"
+    }
+  ],
+  "Cowl": [
+    {
+      "name": "Cleric Cowl",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Cowl"
+    },
+    {
+      "name": "Cleric Cowl",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Cowl"
+    },
+    {
+      "name": "Cleric Cowl",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Cowl"
+    },
+    {
+      "name": "Cleric Cowl",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Cowl"
+    },
+    {
+      "name": "Druid Cowl",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 50,
+      "category": "Cowl"
+    },
+    {
+      "name": "Druid Cowl",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 20,
+      "category": "Cowl"
+    },
+    {
+      "name": "Druid Cowl",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 30,
+      "category": "Cowl"
+    },
+    {
+      "name": "Druid Cowl",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Cowl"
+    },
+    {
+      "name": "Mage Cowl",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Cowl"
+    },
+    {
+      "name": "Mage Cowl",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Cowl"
+    },
+    {
+      "name": "Mage Cowl",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Cowl"
+    },
+    {
+      "name": "Mage Cowl",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Cowl"
+    },
+    {
+      "name": "Scholar Cowl",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Cowl"
+    },
+    {
+      "name": "Scholar Cowl",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Cowl"
+    },
+    {
+      "name": "Scholar Cowl",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Cowl"
+    },
+    {
+      "name": "Scholar Cowl",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Cowl"
+    }
+  ],
+  "Robe": [
+    {
+      "name": "Cleric Robe",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Robe"
+    },
+    {
+      "name": "Cleric Robe",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Robe"
+    },
+    {
+      "name": "Cleric Robe",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Robe"
+    },
+    {
+      "name": "Cleric Robe",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Robe"
+    },
+    {
+      "name": "Druid Robe",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 50,
+      "category": "Robe"
+    },
+    {
+      "name": "Druid Robe",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 20,
+      "category": "Robe"
+    },
+    {
+      "name": "Druid Robe",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 30,
+      "category": "Robe"
+    },
+    {
+      "name": "Druid Robe",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Robe"
+    },
+    {
+      "name": "Mage Robe",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Robe"
+    },
+    {
+      "name": "Mage Robe",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Robe"
+    },
+    {
+      "name": "Mage Robe",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Robe"
+    },
+    {
+      "name": "Mage Robe",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Robe"
+    },
+    {
+      "name": "Scholar Robe",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Robe"
+    },
+    {
+      "name": "Scholar Robe",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Robe"
+    },
+    {
+      "name": "Scholar Robe",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Robe"
+    },
+    {
+      "name": "Scholar Robe",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Robe"
+    }
+  ],
+  "Sandals": [
+    {
+      "name": "Cleric Sandals",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Sandals"
+    },
+    {
+      "name": "Cleric Sandals",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Sandals"
+    },
+    {
+      "name": "Cleric Sandals",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Sandals"
+    },
+    {
+      "name": "Cleric Sandals",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Sandals"
+    },
+    {
+      "name": "Druid Sandals",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Sandals"
+    },
+    {
+      "name": "Druid Sandals",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Sandals"
+    },
+    {
+      "name": "Druid Sandals",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Sandals"
+    },
+    {
+      "name": "Druid Sandals",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Sandals"
+    },
+    {
+      "name": "Mage Sandals",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Sandals"
+    },
+    {
+      "name": "Mage Sandals",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Sandals"
+    },
+    {
+      "name": "Mage Sandals",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Sandals"
+    },
+    {
+      "name": "Mage Sandals",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Sandals"
+    },
+    {
+      "name": "Scholar Sandals",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Sandals"
+    },
+    {
+      "name": "Scholar Sandals",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Sandals"
+    },
+    {
+      "name": "Scholar Sandals",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Sandals"
+    },
+    {
+      "name": "Scholar Sandals",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Sandals"
+    }
+  ],
+  "Hood": [
+    {
+      "name": "Assassin Hood",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Hood"
+    },
+    {
+      "name": "Assassin Hood",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Hood"
+    },
+    {
+      "name": "Assassin Hood",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Hood"
+    },
+    {
+      "name": "Assassin Hood",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Hood"
+    },
+    {
+      "name": "Hunter Hood",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Hood"
+    },
+    {
+      "name": "Hunter Hood",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Hood"
+    },
+    {
+      "name": "Hunter Hood",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Hood"
+    },
+    {
+      "name": "Hunter Hood",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Hood"
+    },
+    {
+      "name": "Mercenary Hood",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Hood"
+    },
+    {
+      "name": "Mercenary Hood",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Hood"
+    },
+    {
+      "name": "Mercenary Hood",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Hood"
+    },
+    {
+      "name": "Mercenary Hood",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Hood"
+    },
+    {
+      "name": "Stalker Hood",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Hood"
+    },
+    {
+      "name": "Stalker Hood",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Hood"
+    },
+    {
+      "name": "Stalker Hood",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Hood"
+    },
+    {
+      "name": "Stalker Hood",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Hood"
+    }
+  ],
+  "Jacket": [
+    {
+      "name": "Assassin Jacket",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Jacket"
+    },
+    {
+      "name": "Assassin Jacket",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Jacket"
+    },
+    {
+      "name": "Assassin Jacket",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Jacket"
+    },
+    {
+      "name": "Assassin Jacket",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Jacket"
+    },
+    {
+      "name": "Hunter Jacket",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Jacket"
+    },
+    {
+      "name": "Hunter Jacket",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Jacket"
+    },
+    {
+      "name": "Hunter Jacket",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Jacket"
+    },
+    {
+      "name": "Hunter Jacket",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Jacket"
+    },
+    {
+      "name": "Mercenary Jacket",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Jacket"
+    },
+    {
+      "name": "Mercenary Jacket",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Jacket"
+    },
+    {
+      "name": "Mercenary Jacket",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Jacket"
+    },
+    {
+      "name": "Mercenary Jacket",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Jacket"
+    },
+    {
+      "name": "Stalker Jacket",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 50,
+      "category": "Jacket"
+    },
+    {
+      "name": "Stalker Jacket",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 20,
+      "category": "Jacket"
+    },
+    {
+      "name": "Stalker Jacket",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Jacket"
+    },
+    {
+      "name": "Stalker Jacket",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Jacket"
+    }
+  ],
+  "Shoes": [
+    {
+      "name": "Assassin Shoes",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Shoes"
+    },
+    {
+      "name": "Assassin Shoes",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Shoes"
+    },
+    {
+      "name": "Assassin Shoes",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Shoes"
+    },
+    {
+      "name": "Assassin Shoes",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Shoes"
+    },
+    {
+      "name": "Hunter Shoes",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Shoes"
+    },
+    {
+      "name": "Hunter Shoes",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Shoes"
+    },
+    {
+      "name": "Hunter Shoes",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Shoes"
+    },
+    {
+      "name": "Hunter Shoes",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Shoes"
+    },
+    {
+      "name": "Mercenary Shoes",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Shoes"
+    },
+    {
+      "name": "Mercenary Shoes",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Shoes"
+    },
+    {
+      "name": "Mercenary Shoes",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Shoes"
+    },
+    {
+      "name": "Mercenary Shoes",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Shoes"
+    },
+    {
+      "name": "Stalker Shoes",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Shoes"
+    },
+    {
+      "name": "Stalker Shoes",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Shoes"
+    },
+    {
+      "name": "Stalker Shoes",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Shoes"
+    },
+    {
+      "name": "Stalker Shoes",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Shoes"
+    }
+  ],
+  "Helmet": [
+    {
+      "name": "Graveguard Helmet",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Helmet"
+    },
+    {
+      "name": "Graveguard Helmet",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Helmet"
+    },
+    {
+      "name": "Graveguard Helmet",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Helmet"
+    },
+    {
+      "name": "Graveguard Helmet",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Helmet"
+    },
+    {
+      "name": "Guardian Helmet",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Helmet"
+    },
+    {
+      "name": "Guardian Helmet",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Helmet"
+    },
+    {
+      "name": "Guardian Helmet",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Helmet"
+    },
+    {
+      "name": "Guardian Helmet",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Helmet"
+    },
+    {
+      "name": "Knight Helmet",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Helmet"
+    },
+    {
+      "name": "Knight Helmet",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Helmet"
+    },
+    {
+      "name": "Knight Helmet",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Helmet"
+    },
+    {
+      "name": "Knight Helmet",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Helmet"
+    },
+    {
+      "name": "Soldier Helmet",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Helmet"
+    },
+    {
+      "name": "Soldier Helmet",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Helmet"
+    },
+    {
+      "name": "Soldier Helmet",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Helmet"
+    },
+    {
+      "name": "Soldier Helmet",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Helmet"
+    }
+  ],
+  "Armor": [
+    {
+      "name": "Graveguard Armor",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 50,
+      "category": "Armor"
+    },
+    {
+      "name": "Graveguard Armor",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 20,
+      "category": "Armor"
+    },
+    {
+      "name": "Graveguard Armor",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 30,
+      "category": "Armor"
+    },
+    {
+      "name": "Graveguard Armor",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Armor"
+    },
+    {
+      "name": "Guardian Armor",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Armor"
+    },
+    {
+      "name": "Guardian Armor",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Armor"
+    },
+    {
+      "name": "Guardian Armor",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Armor"
+    },
+    {
+      "name": "Guardian Armor",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Armor"
+    },
+    {
+      "name": "Knight Armor",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Armor"
+    },
+    {
+      "name": "Knight Armor",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Armor"
+    },
+    {
+      "name": "Knight Armor",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Armor"
+    },
+    {
+      "name": "Knight Armor",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Armor"
+    },
+    {
+      "name": "Soldier Armor",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Armor"
+    },
+    {
+      "name": "Soldier Armor",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Armor"
+    },
+    {
+      "name": "Soldier Armor",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Armor"
+    },
+    {
+      "name": "Soldier Armor",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Armor"
+    }
+  ],
+  "Boots": [
+    {
+      "name": "Guardian Boots",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Boots"
+    },
+    {
+      "name": "Guardian Boots",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Boots"
+    },
+    {
+      "name": "Guardian Boots",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Boots"
+    },
+    {
+      "name": "Guardian Boots",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Boots"
+    },
+    {
+      "name": "Knight Boots",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Boots"
+    },
+    {
+      "name": "Knight Boots",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Boots"
+    },
+    {
+      "name": "Knight Boots",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Boots"
+    },
+    {
+      "name": "Knight Boots",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Boots"
+    },
+    {
+      "name": "Soldier Boots",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Boots"
+    },
+    {
+      "name": "Soldier Boots",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Boots"
+    },
+    {
+      "name": "Soldier Boots",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Boots"
+    },
+    {
+      "name": "Soldier Boots",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Boots"
+    }
+  ],
+  "Bag": [
+    {
+      "name": "Bag",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "Bag"
+    },
+    {
+      "name": "Bag",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "Bag"
+    },
+    {
+      "name": "Bag",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "Bag"
+    },
+    {
+      "name": "Bag",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "Bag"
+    }
+  ],
+  "SatchelOfInsight": [
+    {
+      "name": "Satchel of Insight",
+      "tier": 6,
+      "enchant": 0,
+      "amount": 40,
+      "category": "SatchelOfInsight"
+    },
+    {
+      "name": "Satchel of Insight",
+      "tier": 6,
+      "enchant": 1,
+      "amount": 30,
+      "category": "SatchelOfInsight"
+    },
+    {
+      "name": "Satchel of Insight",
+      "tier": 7,
+      "enchant": 0,
+      "amount": 20,
+      "category": "SatchelOfInsight"
+    },
+    {
+      "name": "Satchel of Insight",
+      "tier": 8,
+      "enchant": 0,
+      "amount": 5,
+      "category": "SatchelOfInsight"
+    },
+    {
+      "name": "Satchel of Insight",
+      "tier": 8,
+      "enchant": 2,
+      "amount": 2,
+      "category": "SatchelOfInsight"
+    }
+  ]
+}
