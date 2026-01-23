@@ -1,9 +1,9 @@
 === Version v18 ===
 • Enhanced Item Matching System - Program now accurately distinguishes between similar item names like "Cursed Staff" and "Great Cursed Staff", resolving pricing errors
 • Smart Filtering Mechanism - Buy, Check, and Black Market operations continue safely without item matching disruptions
-• Automated Sell Order System - Real-time price capture after SELL_BTN, automatically deciding between DIRECT_SELL and SELL_ORDER strategies
+• Automated Sell Order System - Real-time price capture after SELL BTN, automatically deciding between DIRECT SELL and SELL ORDER strategies
 • Price Threshold Logic - Dynamically adjusts selling strategy based on price difference threshold (≤30% = direct sell, >30% = order request)
-• Automatic Retry on Failed Operations - Continuously retries after CREATE_BUTTON until a price is successfully captured
+• Automatic Retry on Failed Operations - Continuously retries after CREATE BUTTON until a price is successfully captured
 • Fixed Item Sorting - Newly added items are automatically sorted by tier and enchantment level, not insertion order
 • Batch Sorting Tool - Added "Sort Items" button to correct previously mis-sorted items
 • Calculation Filtering - N/A priced items and below-threshold profit items (< 23%) are excluded from calculated.json
