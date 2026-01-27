@@ -1,3 +1,7 @@
+=== Version v19 ===
+
+• Create Sell Order Fixed.
+
 === Version v18 ===
 • Enhanced Item Matching System - Program now accurately distinguishes between similar item names like "Cursed Staff" and "Great Cursed Staff", resolving pricing errors
 • Smart Filtering Mechanism - Buy, Check, and Black Market operations continue safely without item matching disruptions
