@@ -1,3 +1,20 @@
+
+=== Version v21 ===
+
+Items View Enhancements: Bulk "+" added to subcategories, improved Selected Items display (Name + Tier/Enchant/Amount).
+
+Tree State: Expand/collapse states are now preserved during deletions or edits.
+
+Bulk Actions: Added "Bulk Amount Set" for Tier.Enchant and "Enter to Delete" for Bulk Remove.
+
+N/A Retry System: Automatic 3-attempt retry mechanism with market reset for N/A prices.
+
+Buy Process Controls: Added F2 key to skip current item; updated Overlay info for status tracking.
+
+Visual Feedback: New Price History and Sell Order info cards with real-time parsing (ItemTypeId).
+
+Config System: Individual JSON saving/loading via data/itemconfig/ folder.
+
 === Version v20 ===
 • All Items Added Database.
 • Config Save/Load Added.
