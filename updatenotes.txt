@@ -1,3 +1,22 @@
+=== Version v22 ===
+
+• Smart Buy Dashboard: Added a dedicated dashboard to track all Smart Buy actions in one place (Instant Buy + Buy Order).
+
+• Profit Overview: Investment, revenue, and profit are now calculated and displayed more clearly.
+
+• Smart Buy Settings: Smart Buy behavior can now be configured from the Settings page (e.g. minimum stock amount).
+
+• Smart Buy Logic: Automatically decides between Instant Buy and Buy Order based on live market data.
+
+• Dynamic Mode Switching: Smart Buy switches buying mode when market conditions change.
+
+• Target Completion: Continues buying until the target amount is reached while protecting profit.
+
+• Buy Order Tax Handling: 2.5% Buy Order tax is fully included in profit calculations.
+
+• Performance Improvements: Faster buying flow with fewer retries and skipped items.
+
+• Stability Improvements: Reduced stalled scans and improved overall reliability.
 
 === Version v21 ===
 
