@@ -1,4 +1,4 @@
-=== Version v22 ===
+=== Version v29 ===
 
 • Smart Buy Dashboard: Added a dedicated dashboard to track all Smart Buy actions in one place (Instant Buy + Buy Order).
 
@@ -18,7 +18,7 @@
 
 • Stability Improvements: Reduced stalled scans and improved overall reliability.
 
-=== Version v21 ===
+=== Version v28 ===
 
 • Items View Enhancements: Bulk "+" added to subcategories, improved Selected Items display (Name + Tier/Enchant/Amount).
 
@@ -34,16 +34,16 @@
 
 • Config System: Individual JSON saving/loading via data/itemconfig/ folder.
 
-=== Version v20 ===
+=== Version v27 ===
 • All Items Added Database.
 • Config Save/Load Added.
 • Improve Search Speed.
 
-=== Version v19 ===
+=== Version v26 ===
 
 • Create Sell Order Fixed.
 
-=== Version v18 ===
+=== Version v25 ===
 • Enhanced Item Matching System - Program now accurately distinguishes between similar item names like "Cursed Staff" and "Great Cursed Staff", resolving pricing errors
 • Smart Filtering Mechanism - Buy, Check, and Black Market operations continue safely without item matching disruptions
 • Automated Sell Order System - Real-time price capture after SELL BTN, automatically deciding between DIRECT SELL and SELL ORDER strategies
@@ -56,7 +56,7 @@
 • Initial Scan Optimization - city_check operations now include pre-scan ITEM_BUTTON clicks for improved accuracy
 
 
-=== Version v17 ===
+=== Version v24 ===
 • Added Update Notes section to track version changes
 • Added "Load Default Items" button to the Items panel
 • Fixed an issue where selected items were shrinking on every refresh
@@ -64,7 +64,7 @@
 • Minor bug fixes and performance optimizations
 
 
-=== Version v16 ===
+=== Version v23 ===
 • Added Writing Speed and Clicking Speed settings (ms based)
 • Improved purchase process to fix delayed item delivery
 • Optimized packet handling for more stable performance
