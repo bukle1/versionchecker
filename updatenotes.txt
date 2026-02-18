@@ -1,3 +1,25 @@
+=== Version v30 ===
+
+• Create Sell Orders: The `Quantity` field has been removed — you now only enter `Price Diff %`. The system processes up to 48 items per run.
+
+• Safer Automation: If no price data is received during a sell operation, the system retries twice for the same item. On the third failed attempt, the process stops automatically.
+
+• HUD Update: Profit is no longer displayed on sell order cards for a cleaner and simpler layout.
+
+• Profit Calculator: Added two-city comparison support. Profit levels are now clearly highlighted with improved table color indicators.
+
+• Buy View Improvements: Route information (Buy City → Sell City) is now visible. Total profit is more readable and includes a green indicator.
+
+• Black Market Update: Hidden from the Buy dropdown. Available as a Sell option and selected by default.
+
+• UI Improvements: Fixed dropdown synchronization issues; selections now sync properly without desync.
+
+• Input & Formatting: The Total Spend field now displays thousand separators (e.g. 1,000,000).
+
+• Logger Enhancements: Added detailed log messages for click steps and improved debugging visibility.
+
+• General Improvements: Minor UI fixes, style standardization, and small bug fixes.
+
 === Version v29 ===
 
 • Smart Buy Dashboard: Added a dedicated dashboard to track all Smart Buy actions in one place (Instant Buy + Buy Order).
